@@ -19,7 +19,8 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-🛠️ Skills
+🛠️ Skills<br>
+
 Programming : Python, JavaScript<br>
 Frameworks: Django, React.js<br>
 Databases: MySQL, PostgreSQL<br>
@@ -29,14 +30,17 @@ API Knowledge: REST API, JSON<br>
 Debugging : Write clean code, Problem-solving<br>
 
 🚀 Projects<br>
+
 🌱 Event Management System (Python + Django + PostgreSQL)<br>
 Built a Vendors support platform with user authentication & role-based navigation.<br>
 Features: User/Admin control, approval/decline system.<br>
 Implemented and Manage Profiles for crop clients.<br>
+
 📚 Library Management System (Python + Django + PostgreSQL)<br>
 CRUD operations for books: buy, return, manage inventory.<br>
 Role-based authentication & authorization system.<br>
 Admin dashboard to approve/decline requests.<br>
+
 🧬 E-learning (HTML + CSS + JavaScript + Bootstrap)<br>
 Staff & Student register/login system with admin control.<br>
 Allowed only register user.<br>
